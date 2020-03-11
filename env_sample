@@ -1,0 +1,19 @@
+# CONECTION
+NODE_ENV='development'
+
+# PORT
+DEFAULT_PORT=3150
+# ------------------------------------------------------------------------
+
+# AUTHENTICATION DATABASE
+CONNECTION_LIMIT=10
+AUTHENTICATION_DB_HOST=localhost
+# ***** Authentication
+AUTHENTICATION_DB_USER_READ=readmaprotel
+AUTHENTICATION_DB_PASSWORD_READ=M4pr0t3l
+# ***** Authentication
+AUTHENTICATION_DB_USER_WRITE=root
+AUTHENTICATION_DB_PASSWORD_WRITE=M4pr0t3l
+# AUTHENTICATION DATABASE NAMES
+AUTHENTICATION_DB_NAME=Proser2-Authenticate
+# ------------------------------------------------------------------------
